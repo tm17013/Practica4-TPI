@@ -15,3 +15,11 @@ Or you can just run `script/up` to do all of this.
 Run `script/down` to tear down the cluster and remove the load-balancer.
 
 **Note:** If you delete the cluster directly, the load-balancer will stick around and result in charges.
+
+Integrantes Practica 4:
+TEPAS MAZARIEGO, KENIA STEPHANNIE              TM17013
+RAMIREZ PERALTA, LUIS MARIO                    RP18011
+RAMIREZ PERALTA, JOSE CARLOS                   RP18010
+
+A continuacion, el repositorio adjunta los archivos utilizados tanto para hacer la prueba en Kubernetes, y ademas, la primera parte "dockerfile", donde se adjunta la creacion de un dockerfile.
+
